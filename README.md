@@ -6,7 +6,7 @@ Before we run this script, you need a few things to be in order.
   2. Go into the .PY file and on line 1, change file path to find your .TXT file.
     - to find path to .TXT file, go into your terminal, 'cd' until you reach the folder of your .TXT file and enter in    terminal 'pwd'. This will give you your file path. Copy and paste that into the .PY file on the first line, after the '('.
     - here is an example of FINISHED file path for .PY file. 
-      f = open("/.../.../.../.../....txt", "r")
+      f = open("/.../.../.../.../TEXTFILE.txt", "r")
   
 Making sure the above is completed, we are now going to run the script.
   1. In terminal, travel to the folder that holds both the .PY and .TXT file.
